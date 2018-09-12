@@ -1,4 +1,4 @@
-# iot-mqtt-server
+# mqttServer
 
 #### 项目介绍
 轻量级物联网MQTT服务器, 快速部署, 支持集群.
