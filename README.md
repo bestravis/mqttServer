@@ -1,5 +1,6 @@
 # mqttServer
 
+#最终效果不理想,这个项目针对父级订阅的解析有问题，还有其他问题
 代码参考了码云项目iot-mqtt-server 做了一些更改，关闭了ssl连接认证，topic过滤等等.适用单机环境.单机稳定性还是挺好
 
 集群，docker建议参考 iot-mqtt-server项目  https://gitee.com/recallcode/iot-mqtt-server/releases
